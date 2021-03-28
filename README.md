@@ -6,9 +6,9 @@ point (This was a late night project and I was very sleepy, excuse my poor code 
 The next step will be to rewrite the code properly and make a standard API for proper use.\
 
 ## Further things to integrate
-- [] - hamming distance
-- [] - euclidean distance
-- [] - cosine distance
-- [] - manhattan distance
+- [x] - euclidean distance
+- [ ] - hamming distance
+- [ ] - cosine distance
+- [ ] - manhattan distance
 
 Using aubio library for audio signal processing to extract the parameters from the tracks.
